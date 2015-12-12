@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Conditioner Control</string>
+    <string name="progress_loading">Loading data</string>
+    <string name="progress_sending">Sending data</string>
+    <string name="cond_state">Conditioner state</string>
+    <string name="updated_from">Updated from</string>
+    <string name="device">N/A</string>
+    <string name="default_date">---</string>
+</resources>
